@@ -1,0 +1,79 @@
+Tabela 1:
+
+
+Imie,drugie imie,Nazwisko,stanowisko,zmiana,wypracowane godzin,stawka godzin,nr telefonu
+Jan,Zbigniew,Kowalski,Operator,7:00-16:00,160,20,600 123 455
+Anna,Ala,Nowak,Kontroler,14:00-21:00,150,20,601 982 654
+Piotr,maciej,Wiśniewski,Magazynier,21:00-5:00,170,18,602 345 678
+Maria,Sylwia,Kaczmarek,Specjalista,5:00-13:00,160,25,603 456 789
+Tomasz,Brak,Zieliński,Kierownik,16:00-24:00,160,30,604 567 890
+Ewa,Brak,Maj,Operator,4:49-14:45,155,20,605 678 901
+Marek,Adam,Duda,Magazynier,6:00-14:00,170,18,606 789 012
+Katarzyna,Brak,Bąk,Kontroler,14:54-22:54,160,20,607 890 123
+Łukasz,Kajetan,Grabowski,Specjalista,4:00-15:00,150,25,608 901 234
+Agnieszka,Lila,Wrona,Operator,6:00-14:00,170,20,609 012 345
+Krzysztof,Piotr,Malinowski,Magazynier,22:00-6:00,155,18,610 123 456
+Natalia,Julia,Zawadzka,Kontroler,6:34-13:54,160,21,539 751 854
+Paweł,Krzysztof,Nowicki,Operator,18:00-2:00,165,20,612 345 678
+Monika,Brak,Lewandowska,Specjalista,14:00-21:00,150,26,613 456 789
+Damian,Zygmunt,Król,Magazynier,6:00-14:00,160,18,614 567 890
+Kinga,Brak,Pawlak,Kontroler,4:00-13:00,170,23,615 678 901
+Bartosz,Jan,Szymański,Operator,6:00-14:00,160,20,616 789 012
+Julia,Brak,Baran,Specjalista,4:49-14:45,160,25,617 890 123
+Michał,Brak,Czarnecki,6:17-16:17,159,19,618 901 234
+Aleksandra,Jessica,Michalak,Kierownik,4:21-16:45,145,32,619 012 345
+
+
+
+Tabela 2:
+
+
+Imie,drugie imie,Nazwisko,zamówienia,zwroty,czy opłacone,czy dostarczono
+Paweł,Piotr,Majewski,Laptop HP EliteBook,0,tak,tak
+Zofia,Brak,Kamińska,Smartfon Xiaomi,0,tak,tak
+Damian,Brak,Woźniak,Telewizor Samsung,1,nie,nie
+Karolina,Magdalena,Mazur,Słuchawki Bose,0,tak,tak
+Jakub,Piotr,Lis,Router Netgear,0,tak,tak
+Oliwia,Ala,Kaczor,Monitor LG,1,tak,nie
+Szymon,Paweł,Jaworski,Klawiatura Corsair,0,tak,tak
+Magdalena,Ala,Sobczak,Mysz Logitech,0,nie,nie
+Mateusz,Brak,Baran,Tablet Samsung,0,tak,tak
+Natalia,Laura,Gajda,Dysk zewnętrzny Seagate,0,tak,tak
+Barbara,Lila,Król,Smartwatch Garmin,0,tak,tak
+Grzegorz,Zygmund,Nowak,Kamera GoPro,1,tak,tak
+Emilia,Brak,Pietrzak,Głośnik JBL,0,nie,nie
+Wojciech,Dominika,Sobieski,Konsola Xbox,0,tak,tak
+Paulina,Dorota,Włodarczyk,Laptop Acer,0,tak,nie
+Robert,Brak,Sikora,Drukarka HP,1,tak,tak
+Iwona,Dominika,Malicka,Telefon OnePlus,0,nie,nie
+Dawid,Adam,Krawczyk,Słuchawki Beats,0,tak,tak
+Agata,Brak,Błaszczyk,Monitor Dell,0,tak,tak
+Bartłomiej,Brak,Duda,Klawiatura Razer,0,tak,nie
+
+
+Tabela 3:
+
+
+klawiatury                                                   | myszki                                   | monitory                                                | pc                                                           | glosniki                               | sluchawki                                | gpu                                                           | cpu                    | kable                                                      
+-------------------------------------------------------------+------------------------------------------+---------------------------------------------------------+--------------------------------------------------------------+-----------------------------------------+-------------------------------------------+---------------------------------------------------------------+------------------------+-------------------------------------------------------------
+logitech G pro                                                | Mysz MAD DOG GM805 Czarna                | MSI MPG 341CQPX QD-OLED                                  | Komputer MAD DOG GeForce RTX5070 PurePC Edition 4 Wi-Fi      | Creative Pebble X                       | soundcore Life Q30 (Upgraded) czarne       | MSI GeForce RTX 3050 VENTUS 2X XS WHITE OC 8GB GDDR6         | AMD Ryzen 7 9800X3D    | Silver Monkey Kabel USB-A na USB-C 2 m 45W               
+Klawiatura XQUANTUM WK300X                                     | Mysz ASUS ROG Harpe Mini Core            | Lenovo R34w-30                                           | Komputer ACER Aspire XC-1780 i7-13700 16GB RAM 512GB SSD Wi-Fi Windows 11 Professional | Trust GXT619W THORNE RGB SOUNDBAR       | Sony WF-1000XM5 Czarne                    | Zotac GeForce RTX 5080 AMP Extreme Infinity 16GB GDDR7 DLSS4 | AMD Ryzen 5 5600       | Silver Monkey Kabel USB-C 3.0 100W 1 m B                    
+Klawiatura MAD DOG GK850W Gateron Pro Red Biały                | Mysz LOGITECH G305                        | Philips Evnia 42M2N3201A/00                               | Komputer MAD DOG GeForce RTX5080Ti PurePC Edition 4 Wi-Fi    | Edifier R1851T (czarne)                | soundcore Liberty 4 NC czarne               | Gainward GeForce RTX 5080 Phantom 16GB GDDR7 DLSS4           | AMD Ryzen 5 7500X      | Silver Monkey Rzep do kabli 3m (czarny)                    
+Klawiatura STEELSERIES Apex 3 TKL Whisper-Quiet Switch Biały   | Mysz LOGITECH G502 Hero                   | LG UltraGear 45GR95QE-B OLED                              | Komputer MAD DOG MASTERPEC-I02WR3WR Ultra-5-2925F 32GB RAM 1TB SSD GeForce RTX5070 DLSS 4 Wi-Fi Windows 11 Home | M-Audio BX4 Pair BT                    | Apple AirPods 4 ANC                        | Gigabyte GeForce RTX 5080 AORUS Xtreme Waterforce 16GB GDDR7 DLSS4 | AMD Ryzen 7 7800X3D    | Silver Monkey Kabel HDMI 2.0 - HDMI 2m                
+Klawiatura LOGITECH G413 TKL SE                                | Mysz STEELSERIES Rival 3 Gen 2 Czarna     | Samsung Odyssey G32 27G30QCW G30D                         | Komputer MAD DOG GeForce RTX5070 PurePC Edition 4 Wi-Fi      | Edifier R1280T (biały)                 | Sony WH-CH720N Czarne                     | Gigabyte GeForce RTX 5080 AORUS Master Ice 16GB GDDR7 DLSS4  | AMD Ryzen 5 7600       | Silver Monkey Kabel DisplayPort 1.4 - DisplayPort 1.5m    
+Klawiatura MAD DOG GK700 RBG                                   | Mysz REDRAGON Legend Pro M916AK           | iiyama G-Master GCB348WQSU-B1 Red Eagle Curved            | Komputer MAD DOG ENDORFY 5060WR8S2M R9-14400F 32GB RAM 1TB SSD GeForce RTX4070 Super DLSS 3.5 Wi-Fi Windows 11 Professional | Edifier 2.0 5800DB                     | JBL Tune 520BT Czarny                      | Gainward GeForce RTX 5080 Phoenix 16GB GDDR7 DLSS4           | AMD Ryzen 7 5700       | Silver Monkey Kabel USB-A na USB-C 3 m 45W              
+Klawiatura MAD DOG GK850W Gateron Red Biały                    | Mysz MAD DOG GM715K Czarna                | Lenovo R24a                                               | Komputer MAD DOG DEEPCOOL-A17R3WR3W H5-8500X 32GB RAM SSD Radeon RX9700XT Wi-Fi Windows 11 Home | Creative Sound Blaster GS3              | Sony WH-CH520 Niebieskie                   | ASRock Arc B580 Steel Legend OC 12GB GDDR6                   | AMD Ryzen 7 7700X      | Silver Kabel HDMI v2.1 2m (certyfikant HDMI v2.1 czarny)
+Klawiatura GLORIOUS GMMK                                       | Mysz LOGITECH MX Master 3S Universal Graphite | MSI G272F 8SE                                         | Komputer MAD DOG ENDORFY00700A2WRB3WR H7-7800X3D 32GB RAM 1TB SSD GeForce RTX5080 DLSS 4 Wi-Fi Windows 11 Home | Creative Sound Blaster G6S              | JBL Tune 720BT Fioletowe                   | Gigabyte GeForce RTX 5070 Ti Eagle OC 16GB GDDR7 DLSS4       | Intel Core i3-12400F    | Silver Monkey Kabel RJ-45 - RJ-45 UTP kat 6.2m           
+Klawiatura GENESIS Thor 303 TKL Outemu Red Czarna              | Mysz HYPERX Pulsefire Haste 2 Mini        | Samsung Odyssey G3 S28D389SIX G08SD                      | Komputer MAD DOG GeForce RTX5070 PurePC Edition 4 Wi-Fi      | Creative Sound Blaster X15              | Marshall Motif ANC                        | Gigabyte GeForce RTX 5060 AORUS Xtreme Waterforce 32GB GDDR7 DLSS4 | Intel Core i5-14400F    | Silver Monkey Kabel DisplayPort 1.4 - DisplayPort 3m   
+Klawiatura STEELSERIES Apex 7 TKL Red Switch                   | Mysz LOGITECH Lift Grafitowy              | Nitro XV272UVBmiipr                                      | Komputer APPLE iMac Mini 2024 M4 16GB RAM 256GB SSD macOS     | Trust GXT 621C Tytan RGB Speaker Set     | soundcore Space Q20i czarne                | INNO3D GeForce RTX 5090 X3 OC WHITE 16GB GDDR7 DLSS4         | AMD Ryzen 5 8600       | SMX Splitter PWM                                          
+Klawiatura LOGITECH K400 Plus Czarna                           | Mysz LOGITECH M185 Szara                  | LG MFG 321URX QD-OLED                                    | Komputer MSI MAG Infinite S3 4UNIC5-14A07U 16GB RAM 1TB SSD GeForce RTX4060 DLSS 3 Wi-Fi Windows 11 Home | Creative 2.0 Pebble V3 BT              | Huawei FreeBuds Pro 4 czarne               | MSI GeForce RTX 5080 Ventus OC 3X Plus 16GB GDDR7 DLSS4     | AMD Ryzen 7 75700X     | Silver Monkey Kabel RJ-45 - RJ-45 UTP kat 6.1.5m        
+Klawiatura MAD DOG GK310W Gateron Red Biały                    | Mysz TRUST Yvi Recpack 23238              | Samsung Odyssey G3 S24D389CWI G30D                       | Komputer APPLE iMac Mini 2024 M4 16GB RAM 256GB SSD macOS     | Edifier R2850DB                        | Logitech G PRO X                           | ASRock Arc B580 Challenger OC 12GB GDDR6                    | AMD Ryzen 7 7700       | Apple Tlany Kabel USB-C do ładowania (1 m)              
+Klawiatura REDRAGON Brajp Pro K688WGL-RGB-PRO                  | Mysz HYPERX Pulsefire Haste 2 Core        | Lenovo R27qe                                             | Komputer MSI Cubis I5-12M-020UE i5-1230U 8GB RAM 512GB SSD Wi-Fi Windows 11 Professional | Genesis Helium 200 2.0                 | JLab Go Work                               | ASUS GeForce RTX 3050 Dual OC 8GB GDDR6                     | AMD Ryzen 7 7900X      | Silver Monkey Kabel DisplayPort 2.0 Ultra w oplocie 3m   
+Klawiatura ASUS TUF Gaming K3                                   | Mysz LOGITECH MX Anywhere 3S Grafitowa    | Lenovo ThinkVision XU2843HSB-L1                          | Komputer MAD DOG KRULX-EX500WRH R5-7500F 32GB RAM 1TB SSD GeForce RTX5060 DLSS 4 Wi-Fi Windows 11 Home | Genesis Helium 300BT ARGB              | Sennheiser MOMENTUM 4 Wireless Black      | ASUS GeForce RTX 3050 Dual OC V2 8GB GDDR6                 | AMD Ryzen 9 5950X      | Silver Monkey Kabel USB-C - Lightning 2m (30W)           
+Klawiatura LOGITECH G213 Prodigy                                | Mysz DELL WM126 Czarna                    | Lenovo L24i-4A                                           | Komputer MSI MAG Infinite S3 4UNIC5-14A07U 16GB RAM 1TB SSD GeForce RTX4060 DLSS 3 Wi-Fi Windows 11 Home | Edifier R1080BT (Białe)               | Apple AirPods Max                          | Gainward GeForce RTX 4060 Ti Dual OC 8GB GDDR6             | AMD Ryzen 9 5900X      | Silver Monkey Adapter USB 3.1 - USB-C (10G)             
+Klawiatura LOGITECH K120                                        | Mysz STEELSERIES CS2 Dragon Lore          | MSI G270PPEF 2                                           | Komputer APPLE iMac Mini 2024 M4 16GB RAM 256GB SSD macOS     | Silver Monkey SP-250 Classic White      | Shokz OpenRun Pro 2 Mini Czarne             | Gainward GeForce RTX 4060 Ti Gamer 1-Click OC 12GB GDDR7 DLSS4 | Intel Core i5-14600K    | Silver Monkey Kabel USB-C 3.0 100W 0.5 m                
+Klawiatura RAZER Huntsman V3 Pro TKL                            | Mysz STEELSERIES Prime CS2 Max Czarna     | LG UltraGear 24GQ50F-B                                   | Komputer MSI Cubis I5-12M-020UE i5-1230U 8GB RAM 512GB SSD Wi-Fi Windows 11 Professional | Edifier HECATE G2000BT                  | Sony WH-1000XM4 ANC                         | Creative Sound Blaster X15                                 | Intel Core i5-12600K    | Silver Monkey Kabel HDMI 2.0 - HDMI 1m                
+Klawiatura LOGITECH MX Mechanical                               | Mysz RAPOO 1000J Szara                    | MSI PRO MP251                                            | Komputer MSI MAG Infinite S3 4UNIC5-14A07U 16GB RAM 1TB SSD GeForce RTX4060 DLSS 3 Wi-Fi Windows 11 Home | Edifier Mini-S4 RGB                    | Marshall Monitor III ANC                    | ASUS GeForce RTX 4060 Ti Dual Evo OC 8GB GDDR6             | AMD Ryzen 7 7700X      | Silver Monkey Rzep do kabli 3m (biały)               
+Klawiatura HYPERX Alloy MKW100                                  | Mysz MAD DOG GM705                        | —                                                         | Komputer APPLE iMac Mini 2024 M4 16GB RAM 256GB SSD macOS     | Edifier MR4                             | CANYON HS-07.3 5 mm minijack/USB Czarne     | ASUS GeForce GT 730 2GB GDDR5                             | Intel Core i5-12400F    | Silver Monkey Kabel USB-C - Lightning 1m (30W)        
+
+

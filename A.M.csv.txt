@@ -1,0 +1,20 @@
+1,Kacper,Wiśniewski,Magazynier,kacper.wisniewski@firma.pl,501123456,Ranna,8,30
+2,Zuzanna,Nowak,Specjalista HR,zuzanna.nowak@firma.pl,503987654,Popołudniowa,7,35
+3,Michał,Wójcik,Kierowca,michal.wojcik@firma.pl,502456789,Nocna,6,32
+4,Aleksandra,Kowalczyk,Księgowa,aleksandra.k@firma.pl,509876321,Ranna,9,40
+5,Tomasz,Zieliński,Technik IT,tomasz.zielinski@firma.pl,500321654,Popołudniowa,7,38
+6,Julia,Dąbrowska,Pracownik biurowy,julia.dabrowska@firma.pl,504112233,Ranna,8,28
+7,Mateusz,Lewandowski,Analityk danych,mateusz.lewa@firma.pl,506334455,Popołudniowa,6,37
+8,Natalia,Szymańska,Grafik,natalia.szymanska@firma.pl,508556677,Ranna,7,33
+9,Jakub,Kaczmarek,Obsługa klienta,jakub.k@firma.pl,507778899,Nocna,5,29
+10,Anna,Mazur,Koordynator zmiany,anna.mazur@firma.pl,505998877,Ranna,9,36
+11,Paweł,Jankowski,Magazynier,pawel.jankowski@firma.pl,502223344,Popołudniowa,8,30
+12,Katarzyna,Włodarczyk,Księgowa,katarzyna.wlodarczyk@firma.pl,509887766,Ranna,7,40
+13,Łukasz,Nowicki,Technik IT,lukasz.nowicki@firma.pl,500665544,Nocna,6,38
+14,Martyna,Gajda,Specjalista HR,martyna.gajda@firma.pl,503443322,Ranna,8,35
+15,Adrian,Bąk,Obsługa klienta,adrian.bak@firma.pl,507112233,Popołudniowa,7,29
+16,Karolina,Sobczak,Grafik,karolina.sobczak@firma.pl,508998877,Ranna,7,33
+17,Maciej,Piotrowski,Kierowca,maciej.piotrowski@firma.pl,502556677,Nocna,5,32
+18,Maja,Król,Pracownik biurowy,maja.krol@firma.pl,504998877,Ranna,8,28
+19,Patryk,Zając,Analityk danych,patryk.zajac@firma.pl,506778899,Popołudniowa,6,37
+20,Magdalena,Dudek,Koordynator zmiany,magdalena.dudek@firma.pl,505665544,Ranna,9,36

@@ -1,0 +1,37 @@
+Jan,Patryk,Ziner,magazynier,poranna,8,25,123456789
+Anna,Maria,Doroż,kierownik,popołudniowa,7,40,987654321
+Piotr,Robert,Gwiazda,sprzedawca,nocna,6,30,555666777
+Maria,Magda,Nowak,kasjer,poranna,8,28,111222333
+Tomasz,Alan,Szymański,magazynier,popołudniowa,9,25,444555666
+Katarzyna,Wiktoria,Kowalska,magazynier,poranna,7,25,222333444
+Paweł,Mikołaj,Wójcik,sprzedawca,popołudniowa,8,30,333444555
+Piotr,Adam,Pawłowski,kierownik,nocna,6,40,666777888
+Marek,Sebastian,Grabowski,kierownik,poranna,7,40,777888999
+Agata,Maja,Kamińska,sprzedawca,popołudniowa,8,30,888999000
+Łukasz,Mateusz,Lewandowski,magazynier,nocna,7,25,999000111
+Agata,Kaja,Wożniak,kierownik,poranna,8,40,101112131
+Mateusz,Kuba,Zieliński,magazynier,popołudniowa,9,25,121314151
+Ewa,Milena,Kwiatowska,sprzedawca,nocna,6,30,131415161
+Kamil,Wojtek,Majewski,kasjer,poranna,8,28,141516171
+Dorota,Marta,Ostrowska,magazynier,popołudniowa,7,25,151617181
+Szymon,Alex,Michalski,kierownik,nocna,6,40,161718192
+Jan Kowalski,3,0,tak,tak
+Anna Nowak,5,1,nie,nie
+Piotr Wiśniewski,2,0,tak,nie
+Katarzyna Mazur,4,2,tak,tak
+Tomasz Zieliński,1,0,nie,nie
+Agnieszka Wójcik,3,1,tak,tak
+Michał Krawczyk,2,0,tak,nie
+Ewa Kamińska,6,3,nie,nie
+Grzegorz Lewandowski,2,0,tak,tak
+Zofia Nowicka,4,1,tak,nie
+Jan Kowalski,3,0,tak,tak
+Anna Nowak,5,1,nie,nie
+Piotr Wiśniewski,2,0,tak,nie
+Katarzyna Mazur,4,2,tak,tak
+Tomasz Zieliński,1,0,nie,nie
+Agnieszka Wójcik,3,1,tak,tak
+Michał Krawczyk,2,0,tak,nie
+Ewa Kamińska,6,3,nie,nie
+Grzegorz Lewandowski,2,0,tak,tak
+Zofia Nowicka,4,1,tak,nie

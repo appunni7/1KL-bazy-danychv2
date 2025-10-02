@@ -1,0 +1,74 @@
+Tabela 1
+
+imię	drugie imię nazwisko	zamówienia	zwroty	czy opłacone	czy dostarczone
+Bartosz 	Kowalski	Laptop Dell XPS 13	nie	tak	tak
+Anna 		rybacka  	Książka "Python"	tak	tak	tak
+Piotr 		Wiśniewski	Monitor LG 27'' 	nie	tak	nie
+Anna 		Lewandowska	Słuchawki Sony	        nie	nie	nie
+Tomasz 		Zieliński	Klawiatura Logitech	tak	tak	tak
+Katarzyna 	lianska 	Mysz bezprzewodowa	nie	tak	tak
+Michał 		Kaczmarek	Smartwatch Garmin	nie	nie	nie
+Agata 		Duda	       Powerbank 20000mAh	nie	tak	tak
+Paweł		imiński   	Router WiFi	        tak	tak	nie
+Joanna 		król	        Pendrive 64GB	        nie	tak	tak
+Jakub 		Bąk	        Telewizor Samsung	nie	nie	nie
+Natalia 	Sokołowska	Etui na telefon	        nie	tak	tak
+Damian 		nowak	        Dysk SSD 1TB	        nie	tak	nie
+Ewa 		Kamińska	Zasilacz komputerowy	tak	tak	tak
+Krzysztof 	Baran	        Karta graficzna RTX	nie	tak	tak
+Monika		 wiensirski	Słuchawki JBL	        nie	nie	nie
+Kiril		kolinowski	Mikrofon Blue Yeti	tak	tak	tak
+Albert		Komarzeniec	Kamera internetowa	nie	tak	nie
+Liza		Kamilczak	Klawiatura mechaniczna	nie	tak	tak
+Agata 		piekarska	Torba na laptopa	nie	tak	tak
+
+
+Tabela 2
+
+imię	drugie imię	nazwisko	stanowisko	zmiana	wypracowanie godziny	stawka godzinowa	nr telefonu
+Jan 	Robert	Kowalski	Kasjer	1 zł	8	20 zł	600-123-456
+Anna		 Nowak   	Magazynier	2 zł	7	18 zł	601-987-654
+Piotr 		Wiśniewski	Kierownik	1 zł	9	30 zł	602-456-789
+Maria 		Lewandowska	Kasjer	3 zł	6	20 zł	603-321-654
+Tomasz 		Zieliński	Magazynier	2 zł	8	18 zł	604-789-123
+Katarzyna 	Wójcik	        Kasjer	 1 zł	7	20 zł	605-456-987
+Michał 		Kaczmarek	Magazynier	3 zł	8	18 zł	606-654-321
+Agnieszka 	Martyna	Duda	Kierownik	2 zł	9	30 zł	607-123-789
+Paweł	Chromiec Maj	        Kasjer	1 zł	8	20 zł	608-987-654
+Joanna		 Król	        Magazynier	3 zł	7	18 zł	609-321-456
+Łukasz 		Bąk	        Kasjer	2 zł	8	20 zł	610-654-987
+Natalia 	Sokołowska	Kierownik	1 zł	9	30 zł	611-789-123
+Damian		 Nowicki	Magazynier	3 zł	7	18 zł	612-123-654
+Ewa		 Kamińska	Kasjer	2 zł	8	20 zł	613-456-789
+Krzysztof 	Baran	        Kierownik	1 zł	9	30 zł	614-987-321
+Monika		 Lis	        Kasjer	3 zł	6	20 zł	615-321-987
+Robert 		Wilkowski	Magazynier	2 zł	8	18 zł	616-654-123
+Sylwia	Agata	Mazur	        Kasjer	1 zł	7	20 zł	617-789-456
+Bartosz 	Gajda	        Kierownik	3 zł	9	30 zł	618-123-987
+Agata	Lilia	 Polak	        Magazynier	2 zł	8	18 zł	619-456-321
+
+
+Tabela 3
+
+| Klawiatury                 | Myszki                  | Monitory                  | PC                         | Głośniki                     | Słuchawki                       | GPU                        | CPU                     | Kable                             |
+|---------------------------|-------------------------|---------------------------|-----------------------------|-------------------------------|----------------------------------|------------------------|-------------------------|------------------------------------|
+| Logitech G Pro            | Logitech MX Master 3    | Dell Ultrasharp U2723QE   | Dell XPS Tower              | Logitech Z623                | Sony WH-1000XM4                 | NVIDIA RTX 4080           | AMD Ryzen 9 7950X       | Kabel HDMI 2.1 1.8m               |
+| Razer BlackWidow Elite    | Razer DeathAdder V2     | LG 27GN950                 | HP Omen 30L                 | Creative Pebble 2.0          | HyperX Cloud II                | AMD Radeon RX 7900 XT     | Intel Core i9-13900K    | Kabel USB-C 3.1 1m                |
+| Corsair K95 RGB Platinum  | SteelSeries Rival 600   | Samsung Odyssey G7         | ASUS ROG Strix GT15         | Bose Companion 2 Series III  | Sennheiser HD 660 S            | NVIDIA GTX 1660 Super     | Intel Core i7-13700K    | Kabel DisplayPort 1.4 2m          |
+| SteelSeries Apex Pro      | Logitech G502 Hero      | ASUS ROG Swift PG259QN     | MSI MEG Trident X           | JBL Quantum Duo              | Bose QuietComfort 35 II        | NVIDIA RTX 4070 Ti        | AMD Ryzen 7 7800X3D     | Kabel USB-A do USB-C 1.5m         |
+| HyperX Alloy FPS Pro      | Corsair Dark Core RGB   | Acer Predator XB273K       | Alienware Aurora R14        | Edifier R1280T               | SteelSeries Arctis Pro         | AMD Radeon RX 6800 XT     | Intel Core i5-13600K    | Kabel Ethernet Cat6 3m           |
+| Ducky One 2 Mini          | Glorious Model O        | BenQ EX3501R               | Lenovo Legion T7            | Klipsch ProMedia 2.1         | Audio-Technica ATH-M50x        | NVIDIA RTX 3090       | AMD Ryzen 5 7600X       | Kabel USB 3.0 A-B 2m              |
+| ASUS ROG Strix Scope      | Finalmouse Ultralight 2 | ViewSonic XG270QG          | CyberPowerPC Gamer Xtreme   | Audioengine A2+              | Razer BlackShark V2            | AMD Radeon RX 6700 XT | Intel Core i3-13100     | Kabel Lightning do USB 1m        |
+| Keychron K2               | Zowie EC2-B             | Eizo ColorEdge CG319X      | iBUYPOWER Trace 4           | Harman Kardon Soundsticks III| Beyerdynamic DT 770 Pro        | NVIDIA RTX 3060 Ti    | AMD Ryzen 3 4100        | Kabel Thunderbolt 4 2m           |
+| Cooler Master MK850       | Cooler Master MM720     | Philips 278E1A             | Acer Predator Orion 3000    | Razer Nommo Pro              | Logitech G Pro X               | AMD Radeon RX 6600 XT | Intel Core i9-12900K    | Kabel VGA 1.5m                   |
+| Fnatic Streak             | Roccat Kone Pro         | AOC CQ32G1                 | NZXT Streaming PC           | Mackie CR3                   | Corsair HS70 Pro Wireless      | NVIDIA RTX 3050       | AMD Ryzen 9 5900X       | Kabel DVI-D 2m                   |
+| Roccat Vulcan 120 AIMO    | Razer Basilisk V3       | MSI Optix MAG272CQR        | Corsair One i300            | Logitech G560 LIGHTSYNC      | Jabra Elite 85h                | NVIDIA GTX 1080 Ti    | Intel Core i7-12700K    | Kabel Audio Jack 3.5mm 1m        |
+| Logitech MX Keys          | Logitech G Pro Wireless | Dell S2721DGF              | HP Pavilion Gaming Desktop  | Bose Companion 5             | Plantronics BackBeat Go 810    | AMD Radeon RX 5700 XT | AMD Ryzen 7 5800X       | Kabel Optical Toslink 1.5m       |
+| Anne Pro 2                | HyperX Pulsefire Surge  | LG 34WN80C-B               | Dell G5 Gaming Desktop      | Edifier S350DB               | AKG K371                       | NVIDIA RTX 2080 Super | Intel Core i5-12400F    | Kabel USB-C do HDMI 2m           |
+| Varmilo VA87M             | ASUS ROG Gladius III    | Samsung Smart Monitor M8   | ASUS TUF Gaming Desktop     | Creative T100                | Turtle Beach Recon 200         | AMD Radeon RX 5600 XT | AMD Ryzen 5 5600X       | Kabel SATA III 0.5m              |
+| Filco Majestouch 2        | Corsair M65 RGB Elite   | ASUS ProArt PA278QV        | MSI MAG Codex 5             | Audioengine A5+              | Shure SRH840                   | NVIDIA RTX 3070       | Intel Core i3-12100     | Kabel Micro USB 1m               |
+| Das Keyboard 4 Professional| SteelSeries Sensei Ten | BenQ PD3200U               | Lenovo IdeaCentre Gaming 5  | JBL Professional 305P MkII   | JBL Quantum One                | AMD Radeon RX 580     | AMD Ryzen 3 3300X       | Kabel USB-C do USB-C 2m          |
+| Razer Huntsman Elite      | Logitech G903           | Acer Nitro VG271           | SkyTech Blaze II            | Mackie CR4                   | Sony MDR-7506                 | NVIDIA GTX 1650 Super | Intel Pentium Gold G7400| Kabel Power 230V 1.8m            |
+| Leopold FC750R            | BenQ Zowie FK2          | HP Z27n G2                 | CUK Continuum Gaming PC     | Klipsch The Fives            | Creative SXFI Air              | AMD Radeon VII        | AMD Athlon 3000G        | Kabel Lightning do USB-C 1m      |
+| Logitech G915 TKL         | Roccat Burst Pro        | Lenovo ThinkVision P32u    | Maingear Vybe               | Logitech Z407                | Sennheiser Momentum 3 Wireless | NVIDIA RTX 2060       | Intel Core i7-11700K    | Kabel DisplayPort do HDMI 1.8m   |
+| Akko 3068                 | Bloody P85              | Gigabyte M28U              | Origin Chronos              | Creative GigaWorks T40       | SteelSeries Arctis 7           | AMD Radeon RX 5500 XT | AMD Ryzen 9 3950X       | Kabel USB 3.1 Gen2 1m            |

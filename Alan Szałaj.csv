@@ -1,0 +1,75 @@
+Tabela 1
+
+Imiê;Druge imiê;Nazwisko;stabowisko;zmiana;wypracowane godziny;Dzieñ tygodnia;Godziny pracy;Status zatwierdzenia;           nr telefonu
+Jan;Mariusz;Kowalski;Magazynier;I;8;Poniedzia³ek;25;Zatwierdzony;501234567
+Anna;; Nowak;Kasjerka;II;8;Wtorek;22;Oczekuje;502345678
+Piort;Marek; Wiœniewski;Kierowca;III;8;Œroda;28;Zatwierdzony;503456789
+Maria;Katarzyna; Lewandowska;Sprzedawca;I;8;Czwartek;24;Zatwierdzony;504567890
+Marek;; Zieliñski;Operator;II;8;Pi¹tek;27;Oczekuje;505678901
+Joanna;Aleksandra; Kamiñska;Recepcjonistka;III;8;Sobota;21;Zatwierdzony;506789012
+Tomasz;; Wójcik;Mechanik;I;8;Niedziela;30;Zatwierdzony;507890123
+Agnieszka;;Agnieszka Krawczyk;Ksiêgowa;II;8;Poniedzia³ek;35;Zatwierdzony;508901234
+Pawe³;Maciek;Nowicki;Ochroniarz;III;8;Wtorek;26;Oczekuje;509012345
+Ewa;Aurelia;Szymañska;HR;I;8;Œroda;33;Zatwierdzony;510123456
+Krzysztof;;D¹browski;Kierownik;II;8;Czwartek;45;Zatwierdzony;511234567
+Amelia;;WoŸniak;Analityk;III;8;Pi¹tek;40;Zatwierdzony;512345678
+Adam;Adrian;Koz³owski;Informatyk;I;8;Sobota;38;Oczekuje;513456789
+Monika;Izabela; Jankowska;Sekretarka;II;8;Niedziela;23;Zatwierdzony;514567890
+£ukasz;Robert; Mazur;Magazynier;III;8;Poniedzia³ek;25;Zatwierdzony;515678901
+Natalia;Anastazja;Kaczmarek;Specjalista ds. sprzeda¿y;I;8;Wtorek;32;Oczekuje;516789012
+Rafa³;Pawe³;Pawlak;Elektryk;II;8;Œroda;29;Zatwierdzony;517890123
+Sylwia;; Król;Grafik;III;8;Czwartek;34;Zatwierdzony;518901234
+Micha³;Daniel; Piotrowski;Magazynier;I;8;Pi¹tek;26;Zatwierdzony;519012345
+Karolina;; Grabowska;Sprz¹taczka;II;8;Sobota;20;Oczekuje;520123456
+
+Tabela 2
+
+Klawiatury;Myszki;Monitory;PC;G³oœniki;S³uchawki;GPU;CPU;Kable
+Logitech G213;Logitech G502;Dell Ultrasharp U2720Q;Dell Optiplex 7090;Logitech Z313;HyperX Cloud II;NVIDIA RTX 3060;Intel i5-12400F;HDMI
+Razer BlackWidow;Razer DeathAdder V2;Samsung Odyssey G7;HP EliteDesk 800;Creative Pebble V2;SteelSeries Arctis 7;AMD RX 6700XT;AMD Ryzen 5 5600X;DisplayPort
+Corsair K55;Corsair Harpoon;BenQ EX2510;Lenovo ThinkCentre M720;Edifier R980T;Razer Kraken X;NVIDIA RTX 3070;Intel i7-12700K;USB-C
+SteelSeries Apex Pro;SteelSeries Rival 600;LG UltraGear 27GL850;Acer Veriton M4660;Logitech Z407;Bose QuietComfort 35;AMD RX 6600;AMD Ryzen 7 5800X;HDMI
+HyperX Alloy Origins;Logitech MX Master 3;Asus TUF VG27AQ;MSI MAG Infinite S;Creative T100;HyperX Cloud Alpha;NVIDIA GTX 1660 Super;Intel i5-11400F;Ethernet
+Logitech K845;Razer Basilisk X;Philips 276E9Q;HP ProDesk 600 G6;Logitech Z623;Sennheiser HD 599;AMD RX 6800;AMD Ryzen 9 5900X;USB-C
+Razer Huntsman Mini;Logitech M720 Triathlon;ViewSonic XG270QG;Lenovo IdeaCentre 5;Creative Inspire T6300;Logitech G733;NVIDIA RTX 3080;Intel i9-11900K;DisplayPort
+Logitech G915;Logitech G Pro X Superlight;Samsung Smart Monitor M7;Dell Precision 3640;Logitech Z200;HyperX Cloud Stinger;AMD RX 6500XT;AMD Ryzen 3 5300G;HDMI
+Corsair K70;Razer Viper Mini;AOC 24G2U;HP Pavilion Gaming;Edifier R1700BT;SteelSeries Arctis Pro;NVIDIA RTX 3090;Intel i7-10700F;Ethernet
+Ducky One 2 Mini;Logitech MX Anywhere 3;LG 32UN880-B;MSI Trident 3;Logitech Z906;Razer BlackShark V2;AMD RX 6900XT;AMD Ryzen 9 5950X;USB-C
+Cooler Master CK530;Logitech G305;Samsung Odyssey Neo G9;Asus ROG Strix GA15;Creative Pebble Plus;Beyerdynamic DT 990 Pro;NVIDIA RTX 3060 Ti;Intel i5-10400;HDMI
+Redragon K552;Razer DeathAdder Essential;BenQ Zowie XL2546;Lenovo Legion T5;Logitech Z150;SteelSeries Siberia V2;AMD RX 5600XT;AMD Ryzen 5 3600;DisplayPort
+Roccat Vulcan 121;Logitech M185;Dell S2721QS;Dell XPS Tower;Edifier M3200;HyperX Cloud Revolver;NVIDIA RTX 3070 Ti;Intel i9-12900K;Ethernet
+Logitech G413;Razer Naga Trinity;LG 27GL83A;HP Z2 Tower G5;Logitech Z333;Sony WH-1000XM4;AMD RX Vega 56;AMD Ryzen 7 5700G;USB-C
+Keychron K2;Logitech M510;Samsung UR55;Acer Aspire TC;Creative Gigaworks T20;HyperX Cloud Flight;NVIDIA GTX 1080 Ti;Intel i7-9700K;HDMI
+Razer Cynosa V2;Corsair Dark Core RGB Pro;Philips 328E1CA;MSI Infinite X;Logitech Z407;SteelSeries Arctis 1;AMD RX 5500XT;AMD Ryzen 5 2600;DisplayPort
+Logitech K380;Logitech Pebble M350;AOC CU34G2X;Lenovo V50t;Creative Pebble V3;Logitech G432;NVIDIA GTX 1660 Ti;Intel i5-9400F;USB-C
+Asus ROG Claymore II;Razer Orochi V2;Dell P2419H;HP Omen 25L;Logitech Z313;Sennheiser Momentum 3;AMD RX 6800XT;AMD Ryzen 7 7700X;HDMI
+HyperX Alloy FPS Pro;Logitech Trackball MX Ergo;Samsung Odyssey G5;Acer Nitro 50;Edifier R980T;Bose QuietComfort 45;NVIDIA RTX 4080;Intel i9-13900K;Ethernet
+Logitech G610;Razer Viper Ultimate;LG 27UK650;MSI Aegis R;Logitech Z600;SteelSeries Arctis Nova Pro;AMD RX 7900XTX;AMD Ryzen 9 7950X;DisplayPort
+
+Tabela 3
+
+Klienci;Zamówienia;Zwroty;Czy op³acone;Czy dostarczone
+Jan Kowalski;3;0;Tak;Tak
+Anna Nowak;5;1;Nie;Nie
+Piotr Wiœniewski;2;0;Tak;Tak
+Katarzyna Lewandowska;7;2;Tak;Nie
+Marek Zieliñski;1;0;Nie;Tak
+Joanna Kamiñska;4;0;Tak;Tak
+Tomasz Wójcik;6;1;Tak;Nie
+Agnieszka Krawczyk;2;0;Nie;Nie
+Pawe³ Nowicki;8;3;Tak;Tak
+Ewa Szymañska;5;0;Tak;Tak
+Krzysztof D¹browski;3;1;Tak;Nie
+Magdalena WoŸniak;4;0;Nie;Tak
+Adam Koz³owski;9;2;Tak;Tak
+Monika Jankowska;2;0;Tak;Nie
+£ukasz Mazur;7;1;Tak;Tak
+Natalia Kaczmarek;3;0;Nie;Nie
+Rafa³ Pawlak;6;2;Tak;Tak
+Sylwia Król;4;1;Nie;Nie
+Micha³ Piotrowski;5;0;Tak;Tak
+Karolina Grabowska;2;0;Tak;Nie
+
+
+
+

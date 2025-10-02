@@ -1,0 +1,62 @@
+Agata,Brak,Fąg,Piekarz od 7:00 do 14:00,100h,12 zł,48 765 432 567
+Marcin,Brak,Klon,Kierownik szkół TEB od 7:00 do 22:00,50h,4 zł,48 654 535 424
+Jan,Brak,Kolwalski,Szpital kierownik od 5:00 do 20:00,200h,5 zł,48 834 535 535
+Mateusz,Brak,Rura,Staż Pożarna od 24:00 do 14:00,300h,10 zł,48 666 999 000
+Alan,Franek,Pyc,Więzienie pomoc od 14:00 do 20:00,75h,12 zł,48 423 113 555
+Michał,Leon,Pazdan,Operator 112 od 5:00 do 2:00,150h,45 zł,48 790 658 765
+Klaudia,Brak,Pyc,Kucharz od 11:00 do 15:00,100h,50 zł,48 355 786 980
+Martyna,Milena,Kowalska,Fryzjer od 7:00 do 14:00,75h,30 zł,48 321 455 567
+Aleksandra,Andzelika,Kwiatowska,Pielęgniarka od 24:00 do 24:00,350h,18 zł,48 323 654 768
+Tadeusz,Brak,Nowak,Policjant od 24:00 do 24:00,500h,11 zł,48 543 524 632
+Marcin,Brak,Nowak,Zołnierz od 7:00 do 14:00,250h,10 zł,48 432 324 345
+Andzelika,Brak,Jankowska,Bokser od 15:00 do 16:00,5h,9 zł,48 342 545 345
+Kacper,Brak,Rudzinski,Ksiądz od 20:00 do 14:00,40h,8 zł,48 414 545 534
+Jan,Kajetan,Rower,Ochroniaż od 15:00 do 21:00,80h,20 zł,48 552 543 242
+Damian,Kuba,Wojciechowki,Terner Piłki od 12:00 do 16:00,25h,34 zł,48 312 543 523
+Milena,Brak,Nowak,Ksiągowa od 7:00 do 16:00,150h,100 zł,48 121 546 674
+Amelia,Brak,Kołosowska,Kierownik Budowy od 8:00 do 21:00,84h,200 zł,48 321 456 656
+Marek,Adam,Kołosowski,Kasjer od 7:00 do 14:00,465h,345 zł,48 575 232 678
+Zosia,Brak,Klonowa,Sprzątaczka od 7:00 do 15:00,250h,500 zł,48 231 423 532
+Emilka,Amelia,Sokołowska,Grabaż do 7:00 do 14:00,65h,50 zł,48 675 675 780
+
+Agata,Brak,Fąg,IP 16 Pro,Tak,w magazynie
+Marcin,Brak,Klon,PS5,Nie,jeszcze czeka na opłate
+Jan,Brak,Kolwalski,Laptop,Tak,w paczkomacie
+Mateusz,Brak,Rura,Słuchawki,Tak,w magazynie
+Alan,Franek,Pyc,Myszka,Tak,w paczkomacie
+Michał,Leon,Pazdan,Komputer,Tak,w paczkomacie
+Klaudia,Brak,Pyc,Sansung S25,Nie,nie wysłane
+Martyna,Milena,Kowalska,Klawiatura,czeka na opłate,jeszcze czeka na opłate
+Aleksandra,Andzelika,Kwiatowska,Monitor,czeka na opłate,jeszcze czeka na opłate
+Tadeusz,Brak,Nowak,podkładka pod myszke,Nie,nie wysłane
+Marcin,Brak,Nowak,GTAV,czeka na opłate,jeszcze czeka na opłate
+Andzelika,Brak,Jankowska,NBA2K26,Tak,w magazynie
+Kacper,Brak,Rudzinski,FC26,Nie,nie wysłane
+Jan,Kajetan,Rower,Farming Simulator 25,Tak,w paczkomacie
+Damian,Kuba,Wojciechowki,IP 17 Pro MAX,Nie,nie wysłane
+Milena,Brak,Nowak,PS4,czeka na opłate,jeszcze czeka na opłate
+Amelia,Brak,Kołosowska,Xbox 360,Tak,w magazynie
+Marek,Adam,Kołosowski,Xbox Series S,Tak,w magazynie
+Zosia,Brak,Klonowa,Xbox Series X,Tak,w paczkomacie
+Emilka,Amelia,Sokołowska,Komputer,Tak,w paczkomacie
+
+Logitech K120,Logitech G502,LG 27GN950,Logitech Z906,HyperX Cloud II,Intel Core i9-13900K,NVIDIA RTX 4090,HDMI 2.1 Cable 2m
+Razer BlackWidow V3,Razer DeathAdder V2,Samsung Odyssey G7,Creative Pebble V3,SteelSeries Arctis 7,AMD Ryzen 9 7950X,AMD Radeon RX 7900 XTX,DisplayPort 1.4 Cable 1.8m
+Corsair K55,SteelSeries Rival 600,Acer Predator XB271HU,Edifier R1280T,Razer BlackShark V2,Intel Core i7-13700K,NVIDIA RTX 4080,USB-C to USB-C 100W
+SteelSeries Apex 3,Corsair M65 RGB,ASUS VG248QG,Microlab FC330,Logitech G Pro X,AMD Ryzen 7 7800X3D,AMD Radeon RX 7800 XT,SATA III Cable 50cm
+HyperX Alloy FPS Pro,Glorious Model O,Dell S2721DGF,Genius SP-HF1800A,Corsair HS70,Intel Core i5-13600K,NVIDIA RTX 4070 Ti,Molex to SATA Adapter
+Logitech G Pro,Zowie EC2,BenQ EX3501R,Trust Tytan 2.1,Sony WH-1000XM4,AMD Ryzen 5 7600X,AMD Radeon RX 7700 XT,PCIe 8-pin Extension
+Cooler Master CK550,Cooler Master MM710,MSI Optix MAG272CQR,Modecom MC-S2,Bose QuietComfort 35 II,Intel Core i3-13100,NVIDIA RTX 4060 Ti,USB 3.0 A-B Printer Cable
+Ducky One 2 Mini,HyperX Pulsefire FPS Pro,Gigabyte M27Q,Logitech Z333,Sennheiser HD 599,AMD Ryzen 3 4100,AMD Radeon RX 7600,Cat6 Ethernet Cable 5m
+Redragon K552,Logitech G203,AOC 24G2U,Creative T100,Audio-Technica ATH-M50X,Intel Core i9-12900K,NVIDIA RTX 3090,DVI-D Dual Link Cable
+Roccat Vulcan 121,Roccat Kone AIMO,Philips 346B1C,Edifier R1700BT,JBL Quantum 800,AMD Ryzen 9 5900X,AMD Radeon RX 6900 XT,VGA Cable 1.5m
+Asus ROG Strix Scope,A4Tech Bloody V7,ViewSonic XG2405,Harman Kardon SoundSticks,Audeze Penrose,Intel Core i5-12600K,NVIDIA RTX 3080,Power Cable EU 1.5m
+MSI Vigor GK50,Trust GXT 930,HP X24ih,Klipsch ProMedia 2.1,AKG K702,AMD Ryzen 7 5800X3D,AMD Radeon RX 6800 XT,3.5mm Audio Cable
+Trust GXT 865,Genesis Krypton 700,Lenovo G27q-20,Razer Nommo,Asus ROG Delta,Intel Core i7-12700K,NVIDIA RTX 3070,USB-A to USB-B Cable
+Genesis Thor 300,MSI Clutch GM50,iiyama GB3461WQSU,Yamaha NX-50,Cooler Master MH751,AMD Ryzen 5 5600,AMD Radeon RX 6750 XT,MicroUSB Cable
+A4Tech Bloody B120,Krux Syrox,Alienware AW2721D,JBL Quantum Duo,MSI Immerse GH50,Intel Core i5-12400F,NVIDIA RTX 3060,Mini DisplayPort to HDMI
+Krux Atax,Asus ROG Gladius II,Samsung S32AM700,Genesis Helium 200,Trust GXT 433 Pylo,AMD Ryzen 3 3200G,AMD Radeon RX 6600 XT,USB-C to HDMI
+Modecom Volcano Hammer,Redragon M908,LG UltraFine 5K,Microlab B-77BT,Genesis Neon 750,Intel Pentium G6400,NVIDIA RTX 3050,USB-C Charging Cable 2m
+Dream Machines DreamKey,Xtrfy M4,BenQ PD3220U,Kruger&Matz KM0812,Redragon Zeus 2,AMD Athlon 3000G,AMD Radeon RX 6500 XT,EPS 8-pin CPU Cable
+Tt eSPORTS Poseidon Z,Dream Machines DM1 FPS,ASUS TUF VG289Q,Trust GXT 658,Kraken X Lite,Intel Core i9-11900K,NVIDIA GTX 1660 Super,USB Extension Cable
+Keychron K2,Endgame Gear XM1,Dell UltraSharp U2723QE,Logitech G560,Superlux HD681,AMD Ryzen 9 3950X,AMD RX 580,SATA Power Splitter

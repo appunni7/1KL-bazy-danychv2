@@ -1,0 +1,60 @@
+Jan;Aleksander;Kowalski;Specjalista ds. employer brandingu;po popoł.;8 godzin;45,50 zł brutto;693240119
+Ania;Natalia;Dąbrowska;Specjalista ds. onboardingu;po popoł.;8 godzin;40,50 zł brutto;798653042
+Kamil;Ignacy;Borowski;Specjalista ds. rekrutacji;po ranna;8 godzin;30,50 zł brutto;601872305
+Adam;Wiktor;Kaliński;Specjalista ds. relacji pracowniczych;po popoł;8 godzin;40,50 zł brutto;838382838
+Adam;Franciszek;Kwiatkowski;Specjalista ds. relacji pracowniczych;po popoł;8 godzin;40,50 zł brutto;838382838
+Robert;Aleksander;Walczak;Specjalista ds. relacji pracowniczych;po popoł;8 godzin;40,50 zł brutto;838382838
+Ewa;Zofia;Nowak;Specjalista ds. rekrutacji;po ranna;8 godzin;45,50 zł brutto;798653042
+Tomasz;Ignacy;Sikora;Specjalista ds. employer brandingu;po popoł;8 godzin;40,50 zł brutto;373273372
+Anna;Gabriela;Lis;Specjalista ds. relacji pracowniczych;po ranna;8 godzin;40,50 zł brutto;798653042
+Marek;Michał;Urban;Specjalista ds. onboardingu;po popoł;8 godzin;30,50 zł brutto;984437543
+Karolina;Natalia;Maj;Specjalista ds. rekrutacji;po popoł;8 godzin;30,50 zł brutto;245875265
+Krzysztof;Franciszek;Zając;Specjalista ds. rekrutacji;po ranna;8 godzin;45,50 zł brutto;798653042
+Patrycja;Zofia;Nowicka;Specjalista ds. employer brandingu;po popoł;8 godzin;30,50 zł brutto;866823234
+Robert;Michał;Walczak;Specjalista ds. onboardingu;po ranna;8 godzin;45,50 zł brutto;512384726
+Joanna;Gabriela;Kowalczyk;Specjalista ds. relacji pracowniczych;po popoł;8 godzin;30,50 zł brutto;512384726
+Adam;Franciszek;Kwiatkowski;Specjalista ds. employer brandingu;po ranna;8 godzin;45,50 zł brutto;173371348
+Monika;Natalia;Włodarczyk;Specjalista ds. rekrutacji;po popoł;8 godzin;30,50 zł brutto;798653042
+Grzegorz;Ignacy;Sokołowski;Specjalista ds. onboardingu;po popoł;8 godzin;45,50 zł brutto;123382643
+Marcin;Michał;Grabowsk;Specjalista ds. relacji pracowniczych;po ranna;8 godzin;40,50 zł brutto;512384726
+Agnieszka;Zofia;Duda;Specjalista ds. rekrutacji;po ranna;8 godzin;30,50 zł brutto;432856097
+Anna Kowalska;myszka;brak;tak;tak
+Paweł Nowak;pc;brak;nie;nie
+Katarzyna Wiśniewska;monitor;brak;tak;tak
+Michał Zieliński;klawiatura;brak;tak;tak
+Ewa Malinowska;słuchawki;brak;tak;tak
+Tomasz Grabowski;laptop;brak;nie;nie
+Magdalena Wójcik;pc;brak;tak;tak
+Robert Nowak;telefon;brak;tak;tak
+Joanna Kowalczyk;kamera;zwrot;tak;nie
+Marcin Wiśniewski;drukarka;brak;tak;tak
+Marcin Wiśniewski;pc;brak;nie;tak
+Joanna Kowalczyk;gpu;brak;tak;nie
+Ewa Malinowska;laptop;brak;tak;tak
+Paweł Nowak;monitor;brak;nie;nie
+Joanna Kowalczyk;myszka;brak;tak;tak
+Marcin Wiśniewski;laptop;brak;tak;nie
+Ewa Malinowska;kamera;brak;nie;tak
+Paweł Nowak;słuchawki;brak;tak;nie
+Marcin Wiśniewski;pc;brak;nie;tak
+Logitech K120;Logitech G502;Dell U2723QE;HP Pavilion;JBL Charge 4;Sony WH-1000XM4;Nvidia RTX 3080;Anker USB-C
+Razer BlackWidow;Corsair M65;Samsung Odyssey;Dell XPS 8940;Bose SoundLink;Bose QC35 II;AMD Radeon RX 6800;Belkin HDMI
+Microsoft Ergonomic;Logitech MX Master 3;LG UltraFine 27;ASUS ROG Strix;Creative Pebble;Sennheiser HD 450BT;NVIDIA RTX 4090;AmazonBasics Ethernet
+Corsair K95;Razer DeathAdder;ASUS ProArt PA278CV;Lenovo Legion 5;Marshall Stanmore II;Audio-Technica ATH-M50x;EVGA RTX 3070;UGREEN USB 3.0
+SteelSeries Apex Pro;SteelSeries Rival 600;Acer Predator X27;MSI Trident 3;Bose Companion 2;Sony MDR-EX15AP;MSI RTX 3060;Targus DisplayPort
+HyperX Alloy FPS;Logitech G Pro X ViewSonic XG270QG;Alienware Aurora R11;JBL Flip 5;Sennheiser Momentum 3;Gigabyte RTX 3090;Apple Thunderbolt;Logitech K380
+Ducky One 2 Mini;Logitech G703;Philips 276E8VJSB;Intel NUC 11;Klipsch R-41PM;Bose Noise Cancelling 700;ZOTAC RTX 2080 Ti;Monoprice USB-C
+Roccat Vulcan 120;Glorious Model O;HP Omen 27i;Acer Aspire TC;Creative T15;Jabra Elite 85h;ASUS TUF RTX 3060;Anker PowerLine+
+Logitech K380;Razer Basilisk X;ViewSonic VX3276;Apple Mac Mini;Bose SoundLink Mini;Skullcandy Crusher;NVIDIA GTX 1660;AmazonBasics Lightning
+Corsair Strafe;Razer Viper Ultimate;Dell P2721Q;HP Envy Desktop;Klipsch The One II;AKG K371;EVGA GTX 1650;Logitech USB-C
+Keychron K2;Logitech MX Vertical;Samsung Smart Monitor M8;Lenovo ThinkCentre;Mackie CR3;Plantronics BackBeat Pro 2;XFX RX 5700 XT;Baseus USB-C
+Anne Pro 2;SteelSeries Sensei 310;LG 34WN80C-B;ASUS VivoMini;Audioengine A2+;Beyerdynamic DT 770 Pro;NVIDIA Titan RTX;UGREEN Lightning
+Cooler Master SK650;Logitech G604;Acer Nitro VG271;MSI MEG Trident X;Bose FreeSpace;Shure SRH840;Gigabyte RTX 3050;Anker PowerLine II
+Durgod Taurus K320;Razer Naga Trinity;Philips 288E2A;Intel NUC 9;Klipsch R-15PM;Bose SoundTrue;MSI RTX 2070;AmazonBasics HDMI
+Varmilo VA87M;Logitech M330 Silent Plus;ASUS ROG Swift PG259QN;HP EliteDesk;Creative Stage Air;Sennheiser HD 25;ASUS RTX 2060;Monoprice DisplayPort
+Filco Majestouch 2;Logitech MX Anywhere 3;Dell UltraSharp U2419H;Apple iMac;Bose SoundLink Revolve;JBL Tune 750BTNC;PNY RTX 3080;Baseus HDMI
+Leopold FC750R;SteelSeries Rival 3;LG 27GL850;Lenovo IdeaCentre;Marshall Kilburn II;Bose QuietComfort 35 II;ASRock RX 580;Anker USB 2.0
+Drevo Calibur V5;Razer DeathAdder V2;Acer Predator XB243K;MSI Infinite X;Bose Companion 6;Audio-Technica ATH-ANC770BT;Palit RTX 3090;UGREEN VGA
+Drevo Calibur V2;Razer DeathAdder V2;Acer Predator XB273K;MSI Infinite X;Bose Companion 5;Audio-Technica ATH-ANC700BT;Palit RTX 3070;UGREEN VGA
+
+

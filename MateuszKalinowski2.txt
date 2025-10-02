@@ -1,0 +1,21 @@
+Oliwia,Maria,Nowak,PS4,Tak,Czeka w magazynie
+Michał,Jan,Kowalski,Nintendo Switch,Tak,W drodze
+Zuzanna,,Wiśniewski,Brak,Nie,Nie
+Kacper,Tomasz,Wójcik,Brak,Nie,Nie
+Natalia,Katarzyna,Kaczmarek,PS5,Tak,W Paczkomacie
+Jakub,Piotr,Mazur,Iphone 16,Nie,Czeka na opłate
+Aleksandra,Magdalena,Kubiak,Iphone 15,Tak,Oczekuje na transport
+Szymon,Jakub,Zieliński,Słuchawki SteelSeries,Tak,Czeka w magazynie
+Emilia,Aleksandra,Sikora,Brak,Nie,Nie
+Filip,,Jankowski,PS4,Nie,Czeka na opłate
+Laura,Ewa,Pawlak,Brak,Nie,Nie
+Mateusz,Łukasz,Malinowski,XBOX X,Tak,W Centrum Logistyki
+Anna,Zofia,Dąbrowski,XBOX 360,Nie,Czeka na opłate
+Marcin,Mateusz,Walczak,Brak,Nie,Nie
+Karolina,Joanna,Baran,PS4,Tak,W drodze
+Tomasz,Adam,Lis,Samsung S24,Tak,Dostarczono
+Julia,,Sobczak,PS5,Tak,Dostarczono
+Paweł,Natalia,Gajda,Nintendo Switch,Tak,W Paczkomacie
+Maja,,Wilk,FIFA 23,Nie,Czeka na opłate
+Kamil,Grzegorz,Kot,Głośnik JBL,Tak,W Paczkomacie
+Sebastian,,Nowak,PS5,Tak,Czeka w magazynie

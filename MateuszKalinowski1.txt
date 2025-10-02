@@ -1,0 +1,20 @@
+Jan,Adam,Nowak,Kasjer,od 12:00 do 21:00,22 zł,160h,48 985 453 344
+Krzysztof,Michał,Kolumb,Piekarz,od 6:00 do 18:00,30 zł,140h,48 555 876 324
+Andrzej,,Kowalski,Policjant,od 6:00 do 21:00,35 zł,160h,48 899 678 534
+Marcin,Piotr,Bąk,Ratownik,od 8:00 do 16:00,38 zł,160h,48 661 344 996
+Mateusz,Jakub,Kalinowski,Programista,od 12:00 do 21:00,75 zł,150h,48 776 534 789
+Oliwia,Anna,Borowicka,Nauczyciel,od 7:00 do 17:00,50 zł,160h,48 331 114 567
+Jakub,,Kloskowski,Ochroniarz,od 21:00 do 4:00,28 zł,150h,48 889 776 555
+Lena,Katarzyna,Trąk,Fryzjer,od 9:00 do 18:00,33 zł,160h,48 898 712 336
+Kacper,Mateusz,Trąbkowski,Murarz,od 8:00 do 16:00,40,00 zł,140h,48 111 476 983
+Alan,Paweł,Pyc,Operator 112,od 6:00 do 21:00,25 zł,160h,48 885 558 776
+Paweł,Łukasz,Górski,Trener,od 7:00 do 16:00,45 zł,150h,48 154 632 785
+Robert,,Lewandowski,Piłkarz,od 13:00 do 18:00,500 zł,60h,48 643 765 788
+Wojciech,Jan,Szczęsny,Pilot,od 8:00 do 16:00,120 zł,80h,48 115 776 558
+Oliwier,Szymon,Sablewski,Taksówkarz,od 10:00 do 18:00,30 zł,160h,48 899 145 761
+Filip,,Tarkowski,Siatkarz,od 13:00 do 18:00,300 zł,80h,48 776 552 114
+Tadeusz,Andrzej,Szczotkowski,Lekarz,od 4:00 do 14:00,80 zł,160h,48 583 289 678
+Damian,Robert,Szczeciński,Pielęgniarka,od 4:00 do 14:00,45 zł,160h,48 132 497 591
+Marcel,Dawid,Egorow,Bokser,od 10:00 do 18:00,150 zł,60h,48 776 668 321
+Bartek,Grzegorz,Rzodkiewski,Egzorcysta,od 3:00 do 10:00,60 zł,40h,48 554 331 679
+Hubert,,Kosko,Ksiądz,od 7:00 do 14:00,70 zł,140h,48 334 555 124

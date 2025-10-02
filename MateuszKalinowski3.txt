@@ -1,0 +1,3 @@
+Logitech K120,Razer DeathAdder V3 Pro,MSI MPG 272QR QD-OLED X50,Logitech Z407,SteelSeries Arctis Nova Elite,NVIDIA GeForce RTX 4090,Intel Core i9-14900K,Kabel USB-A do USB-C
+Redragon DragonBorn K630 RGB,Logitech G Pro X Superlight,Samsung Odyssey OLED G6,Creative Pebble 2.0,Sony WH-1000XM6,NVIDIA GeForce RTX 4080,Intel Core i7-14700K,Kabel USB-C do USB-C
+Trust Thado TKL,SteelSeries Rival 5,LG UltraFine 32U990A,Edifier R980T,Bose QuietComfort Ultra,NVIDIA GeForce RTX 4070 Ti,Intel Core i5-14600K,Kabel HDMI 2.1

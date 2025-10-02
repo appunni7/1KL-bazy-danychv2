@@ -1,0 +1,53 @@
+Anna,Sofia,Kowalska,Magazynier,Poranna,35 zł brutto,600123456
+Jan,Adam,Nowak,Specjalista ds. obsługi klienta,Popołudniowa,48 zł brutto,601234567
+Marta,Anna,Zielińska,Kierownik magazynu,Poranna,42 zł brutto,602345678
+Piotr,Jan,Wiśniewski,Technik komputerowy,Nocna,29 zł brutto,603456789
+Krzysztof,Andrzej,Lewandowski,Programista,Popołudniowa,47 zł brutto,604567890
+Ewa,Magdalena,Szymańska,Specjalista ds. logistyki,Poranna,38 zł brutto,605678901
+Marcin,Tomasz,Dąbrowski,Magazynier,Popołudniowa,25 zł brutto,606789012
+Agnieszka,Maria,Malinowska,Pracownik działu zwrotów,Nocna,30 zł brutto,607890123
+Tomasz,Michał,Kowalczyk,Specjalista ds. IT,Poranna,50 zł brutto,608901234
+Monika,Katarzyna,Dąbrowska,Pracownik obsługi klienta,Popołudniowa,45 zł brutto,609012345
+Paweł,Grzegorz,Rutkowski,Kierowca,Poranna,27 zł brutto,610123456
+Julia,Eliżbieta,Wójcik,Specjalista ds. sprzedaży,Nocna,32 zł brutto,611234567
+Łukasz,Adam,Kaczmarek,Magazynier,Popołudniowa,33 zł brutto,612345678
+Natalia,Joanna,Majewski,Specjalista ds. jakości,Poranna,41 zł brutto,613456789
+Jakub,Szymon,Pawlak,Technik komputerowy,Nocna,44 zł brutto,614567890
+Katarzyna,Aleksandra,Stępień,Pracownik administracyjny,Popołudniowa,26 zł brutto,615678901
+Adam,Marek,Pawlak,Specjalista ds. logistyki,Poranna,40 zł brutto,616789012
+Barbara,Danuta,Wrona,Magazynier,Nocna,22 zł brutto,617890123
+Robert,Dariusz,Nowak,Specjalista ds. obsługi klienta,Poranna,49 zł brutto,618901234
+Łukasz,Piotr,Zieliński,Technik komputerowy,Popołudniowa,28 zł brutto,619012345
+Anna K,klawiatury,Brak,Nie,Nie
+Krzysztof L.,myszki,Brak,Nie,Nie
+Ewa S.,monitory pc,Brak,Tak,Tak
+Marcin D.,głośniki,Brak,Tak,Nie
+Agnieszka M.,słuchawki,Zwrot,Nie,Nie
+Tomasz K.,GPU,Brak,Tak,Tak
+Monika B.,CPU,Zwrot,Tak,Nie
+Paweł R.,Kable,Brak,Nie,Tak
+Julia W.,klawiatury,Brak,Tak,Tak
+Łukasz S.,monitory pc,Brak,Nie,Nie
+Natalia K.,słuchawki,Brak,Tak,Nie
+Jakub M.,CPU,Brak,Nie,Nie
+Katarzyna P.,klawiatury,Brak,Tak,Tak
+Adam W.,myszki,Zwrot,Nie,Nie
+Barbara T.,monitory pc,Brak,Tak,Tak
+Robert N.,głośniki,Brak,Nie,Nie
+Anna K,klawiatury,Brak,Nie,Nie
+Krzysztof L.,myszki,Brak,Nie,Nie
+Ewa S.,monitory pc,Brak,Tak,Tak
+Marcin D.,głośniki,Brak,Tak,Nie
+Agnieszka M.,słuchawki,Zwrot,Nie,Nie
+Tomasz K.,GPU,Brak,Tak,Tak
+Monika B.,CPU,Zwrot,Tak,Nie
+Paweł R.,Kable,Brak,Nie,Tak
+Julia W.,klawiatury,Brak,Tak,Tak
+Łukasz S.,monitory pc,Brak,Nie,Nie
+Natalia K.,słuchawki,Brak,Tak,Nie
+Jakub M.,CPU,Brak,Nie,Nie
+Katarzyna P.,klawiatury,Brak,Tak,Tak
+Adam W.,myszki,Zwrot,Nie,Nie
+Barbara T.,monitory pc,Brak,Tak,Tak
+Robert N.,głośniki,Brak,Nie,Nie
+

